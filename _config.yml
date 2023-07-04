@@ -27,11 +27,11 @@ exclude:
   - scripts/
   - not-pure-poole.gemspec
 
-# Optimize Jekyl SEO Tag
-# twitter:
-#   username: vszhub
-#   card: summary
-# logo: logo.png
+Optimize Jekyl SEO Tag
+twitter:
+  username: vszhub
+  card: summary
+logo: logo.png
 social:
   name: gndldl
   links:
