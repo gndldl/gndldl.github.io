@@ -46,7 +46,7 @@ node_modules
 *.gem
 
 # custom
-*.404.html
+404.html
 .github
 _saas
 assets
