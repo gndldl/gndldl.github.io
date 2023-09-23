@@ -44,3 +44,8 @@ node_modules
 
 # Ruby gems
 *.gem
+
+# custom
+404.html
+avatar.jpeg
+bg.jpeg
