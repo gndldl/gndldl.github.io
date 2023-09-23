@@ -46,24 +46,14 @@ node_modules
 *.gem
 
 # custom
-404.html
-
-.github
-
-_saas
-
-assets
-
-scripts
-
-.editorconfig
-
-Gemfile
-
-Gemfile.lock
-
-_config.yml
-
-avatar.jpeg
-
-bg.jpeg
+/404.html
+/.github
+/_saas
+/assets
+/scripts
+/.editorconfig
+/Gemfile
+/Gemfile.lock
+/_config.yml
+/avatar.jpeg
+/bg.jpeg
