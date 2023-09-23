@@ -47,13 +47,23 @@ node_modules
 
 # custom
 404.html
+
 .github
+
 _saas
+
 assets
+
 scripts
+
 .editorconfig
+
 Gemfile
+
 Gemfile.lock
+
 _config.yml
+
 avatar.jpeg
+
 bg.jpeg
