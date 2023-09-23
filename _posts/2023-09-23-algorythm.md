@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Algorythm
-tags: Algorythm
-categories: Algotythm
+title: algorythm
+tags: algorythm
+categories: algotythm
 math: true
 ---
 # Algorythm
