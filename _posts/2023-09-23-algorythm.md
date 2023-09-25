@@ -2,7 +2,7 @@
 layout: post
 title: algorithm
 tags: algorithm
-categories: algotithm
+categories: algorithm
 math: true
 ---
 # Algorithm
