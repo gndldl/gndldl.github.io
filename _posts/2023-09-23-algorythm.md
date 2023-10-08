@@ -7,4 +7,3 @@ math: true
 ---
 
 # Algorithm
-
